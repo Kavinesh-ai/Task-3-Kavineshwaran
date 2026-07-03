@@ -6,6 +6,7 @@ Ensure accurate and verifiable answers
 Eliminate AI hallucinations
 Provide traceable responses with citations
 Simulate real-world QA systems used in industry
+
 🧠 Use Cases
 
 Document-based QA systems
@@ -13,6 +14,7 @@ AI evaluation & benchmarking
 Academic tools
 Legal/compliance assistants
 Retrieval-Augmented Generation (RAG)
+
 ⚙️ How to Use
 
 Provide a reference text with paragraph numbers
